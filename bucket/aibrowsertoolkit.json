@@ -1,13 +1,13 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.21",
     "description": "Browser API for AI agents, over HTTP",
     "homepage": "https://github.com/skssmd/Ai-Browser-Toolkit",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skssmd/Ai-Browser-Toolkit/releases/download/v0.1.2/aibrowsertoolkit-0.1.2-windows-x86_64.zip",
-            "hash": "0e0f8bea5764ad1af58f0b546162faa5c75e4fdb61a6307441d05880d1ae2e06",
-            "extract_dir": "aibrowsertoolkit-0.1.2-windows-x86_64"
+            "url": "https://github.com/skssmd/Ai-Browser-Toolkit/releases/download/v0.1.21/aibrowsertoolkit-0.1.21-windows-x86_64.zip",
+            "hash": "3c58ed0f8f0c86bebdf7023f7c9b5064079a5d3cba59c6ff1d764adb90a710d3",
+            "extract_dir": "aibrowsertoolkit-0.1.21-windows-x86_64"
         }
     },
     "bin": "abt.cmd",
