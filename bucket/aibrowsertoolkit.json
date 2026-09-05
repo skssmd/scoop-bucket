@@ -1,13 +1,13 @@
 {
-    "version": "0.5.7",
+    "version": "0.5.9",
     "description": "Agentic browser automation CLI for AI agents",
     "homepage": "https://github.com/skssmd/Ai-Browser-Toolkit",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skssmd/Ai-Browser-Toolkit/releases/download/v0.5.7/aibrowsertoolkit-0.5.7-windows-x86_64.zip",
-            "hash": "a95cdbad57a2270ea03639c39e5246a5c0e55240f2fe847944df6b58b1b34596",
-            "extract_dir": "aibrowsertoolkit-0.5.7-windows-x86_64"
+            "url": "https://github.com/skssmd/Ai-Browser-Toolkit/releases/download/v0.5.9/aibrowsertoolkit-0.5.9-windows-x86_64.zip",
+            "hash": "a535db279398e06276d9721b3a544d9d857b86e8adb7020f740c0c6226012fbf",
+            "extract_dir": "aibrowsertoolkit-0.5.9-windows-x86_64"
         }
     },
     "bin": "abt.cmd",
