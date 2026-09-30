@@ -1,16 +1,19 @@
 {
-    "version": "0.7.4",
+    "version": "0.7.5",
     "description": "Agentic browser automation CLI for AI agents",
     "homepage": "https://github.com/skssmd/Ai-Browser-Toolkit",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skssmd/Ai-Browser-Toolkit/releases/download/v0.7.4/aibrowsertoolkit-0.7.4-windows-x86_64.zip",
-            "hash": "610f900a077afe27e4a237c10428888f5595754dce70d58c967b22792d9534f7",
-            "extract_dir": "aibrowsertoolkit-0.7.4-windows-x86_64"
+            "url": "https://github.com/skssmd/Ai-Browser-Toolkit/releases/download/v0.7.5/aibrowsertoolkit-0.7.5-windows-x86_64.zip",
+            "hash": "56987a12dea3fc1c3d8e43b21af124b52d46d7fbaa51ab817fc1d52474e62f60",
+            "extract_dir": "aibrowsertoolkit-0.7.5-windows-x86_64"
         }
     },
     "bin": "abt.cmd",
+    "shortcuts": [
+        ["python\\pythonw.exe", "AI Browser Toolkit", "-m abt app", "assets\\logo-white.ico"]
+    ],
     "notes": [
         "Check what this needs: abt doctor",
         "It drives an existing Chrome or Edge and bundles neither.",
